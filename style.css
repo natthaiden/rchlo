@@ -1,0 +1,47 @@
+body {
+
+}
+
+.head {
+    width: auto;
+    height: 200px;
+    background-color: #f5f5f5;
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+}
+
+.suacompra {
+    border: 1px solid #f5f5f5;
+    width: 600px;
+    margin-left: 100px;
+    border-radius: 5px;
+}   
+
+h2 {
+    margin-top: 0;
+    height: 50px;
+    text-align: left;
+    background-color: #f5f5f5;
+    font-style: normal;
+
+}   
+.suacompra>img {
+    width: 580px;
+    margin-left: 10px;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 5px;
+}
+h1, h2, p, pre {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.suacompra>p, pre {
+    margin-left: 10px;
+}
+
+.dados {
+    text-align: center;
+}
+
+body {font-family: Arial, Helvetica, sans-serif;}
